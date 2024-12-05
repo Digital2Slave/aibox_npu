@@ -128,6 +128,7 @@ total 20M
 
 ## 2. Test
 
- <img src="./docs/bus.jpg">
- 
- <img src="./docs/out_20241205-105940742.jpg">
+ <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="./docs/bus.jpg" alt="Bus Image" style="width: 45%; margin-right: 10px;">
+    <img src="./docs/out_20241205-105940742.jpg" alt="Output Image" style="width: 45%;">
+</div>
