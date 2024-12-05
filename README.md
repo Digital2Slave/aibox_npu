@@ -57,7 +57,6 @@ total 16M
 
 ```bash
 (yolo11) $ cd ~/yolo11_rknn
-#!< 安装依赖库
 (yolo11) $ wget https://github.com/airockchip/rknn-toolkit2/archive/refs/tags/v2.3.0.tar.gz
 (yolo11) $ tar -zxf v2.3.0.tar.gz && cd rknn-toolkit2-2.3.0/rknn-toolkit2
 (yolo11) $ pip install -r packages/x86_64/requirements_cp38-2.3.0.txt
