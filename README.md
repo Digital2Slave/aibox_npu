@@ -132,3 +132,6 @@ total 20M
     <img src="./docs/bus.jpg" alt="Bus Image" style="width: 45%; margin-right: 10px;">
     <img src="./docs/out_20241205-105940742.jpg" alt="Output Image" style="width: 45%;">
 </div>
+
+
+**[Ubuntu20.04 convert yolo11n‐seg.pt to yolo11n‐seg.rknn and run demo on 3588](https://github.com/Digital2Slave/aibox_npu/wiki/Ubuntu20.04-convert-yolo11n%E2%80%90seg.pt-to-yolo11n%E2%80%90seg.rknn-and-run-demo-on-3588)**
